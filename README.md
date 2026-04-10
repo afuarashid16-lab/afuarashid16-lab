@@ -1,10 +1,6 @@
 ## Hello, world! I'm Afua  👋
 
 
-**afuarashid16-lab/afuarashid16-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 💫 I am an aspiring Game Developer and Writer
 - 💻 I'm a Computer Science Student
 - ✨ I’m looking to collaborate on video game projects
